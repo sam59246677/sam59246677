@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Sam 👋
 
-<!--
-**sam59246677/sam59246677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building modern web applications with React, TypeScript, and Tailwind CSS.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Tailwind CSS
+- Vite
+- Git & GitHub
+
+## 💻 Featured Project
+
+### Sam's Bookstore
+
+A responsive online bookstore built with React and TypeScript.
+
+🔗 Live Demo:
+https://sam59246677.github.io/sam-sbookstore/
+
+🔗 Repository:
+https://github.com/sam59246677/sam-sbookstore
+
+
+## 🌐 Portfolio
+
+https://sam59246677.github.io/sam-portfolio/
+
+
+## 📫 Contact
+
+GitHub:
+https://github.com/sam59246677
