@@ -1,37 +1,83 @@
 # Hi, I'm Sam 👋
 
-Frontend Developer focused on building modern web applications with React, TypeScript, and Tailwind CSS.
+Frontend Developer focused on building modern, responsive web applications with React, TypeScript, and Tailwind CSS.
+
+I enjoy turning ideas and designs into clean, accessible, and user-friendly interfaces.
+
+---
 
 ## 🚀 Skills
 
-- HTML
-- CSS
+### Frontend Development
+- HTML5
+- CSS3
 - JavaScript
 - TypeScript
 - React
+
+### Styling & UI
 - Tailwind CSS
+- Responsive Design
+
+### Tools & Workflow
 - Vite
-- Git & GitHub
+- Git
+- GitHub
 
-## 💻 Featured Project
+---
 
-### Sam's Bookstore
+## 💻 Featured Projects
+
+### 📊 Expense Tracker
+
+A responsive expense management dashboard built with React and TypeScript.
+
+**Features:**
+- Track income and expenses
+- Financial summaries
+- Filter and sort transactions
+- Spending analysis
+- Interactive charts
+
+**Tech Stack:** React · TypeScript · Tailwind CSS · Recharts · Lucide React
+
+🔗 [Live Demo](https://sam59246677.github.io/expense-tracker/)
+
+🔗 [Repository](https://github.com/sam59246677/expense-tracker)
+
+---
+
+### 📚 Sam's Bookstore
 
 A responsive online bookstore built with React and TypeScript.
 
-🔗 Live Demo:
-https://sam59246677.github.io/sam-sbookstore/
+**Features:**
+- Browse books
+- View product details
+- Shopping cart
+- Checkout process
+- Responsive design
 
-🔗 Repository:
-https://github.com/sam59246677/sam-sbookstore
+**Tech Stack:** React · TypeScript · Tailwind CSS · React Router
 
+🔗 [Live Demo](https://sam59246677.github.io/sam-sbookstore/)
+
+🔗 [Repository](https://github.com/sam59246677/sam-sbookstore)
+
+---
 
 ## 🌐 Portfolio
 
-https://sam59246677.github.io/sam-portfolio/
+You can explore more of my projects and frontend work on my portfolio:
 
+🔗 [View My Portfolio](https://sam59246677.github.io/sam-portfolio/)
 
-## 📫 Contact
+---
 
-GitHub:
-https://github.com/sam59246677
+## 📫 Connect With Me
+
+- GitHub: [@sam59246677](https://github.com/sam59246677)
+
+---
+
+⭐ Thanks for visiting my profile!
