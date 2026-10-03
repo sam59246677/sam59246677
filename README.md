@@ -9,35 +9,64 @@ I enjoy turning ideas and designs into clean, accessible, and user-friendly inte
 ## 🚀 Skills
 
 ### Frontend Development
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- React
+
+* HTML5
+* CSS3
+* JavaScript
+* TypeScript
+* React
 
 ### Styling & UI
-- Tailwind CSS
-- Responsive Design
+
+* Tailwind CSS
+* Responsive Design
 
 ### Tools & Workflow
-- Vite
-- Git
-- GitHub
+
+* Vite
+* Git
+* GitHub
 
 ---
 
 ## 💻 Featured Projects
+
+---
+
+### 📈 SaaS Admin Dashboard
+
+A modern and responsive SaaS admin dashboard built with React and TypeScript.
+
+**Features:**
+
+* Product CRUD operations
+* Search, filtering, sorting, and pagination
+* Dashboard statistics
+* Interactive charts
+* Settings management
+* Protected routes
+* Dark mode support
+
+**Tech Stack:** React · TypeScript · Tailwind CSS · React Router · TanStack Query · Recharts
+
+🔗 [Live Demo](https://sam59246677.github.io/saas-admin-dashboard/)
+
+🔗 [Repository](https://github.com/sam59246677/saas-admin-dashboard)
+
+---
+
 
 ### 📊 Expense Tracker
 
 A responsive expense management dashboard built with React and TypeScript.
 
 **Features:**
-- Track income and expenses
-- Financial summaries
-- Filter and sort transactions
-- Spending analysis
-- Interactive charts
+
+* Track income and expenses
+* Financial summaries
+* Filter and sort transactions
+* Spending analysis
+* Interactive charts
 
 **Tech Stack:** React · TypeScript · Tailwind CSS · Recharts · Lucide React
 
@@ -45,18 +74,19 @@ A responsive expense management dashboard built with React and TypeScript.
 
 🔗 [Repository](https://github.com/sam59246677/expense-tracker)
 
----
+
 
 ### 📚 Sam's Bookstore
 
 A responsive online bookstore built with React and TypeScript.
 
 **Features:**
-- Browse books
-- View product details
-- Shopping cart
-- Checkout process
-- Responsive design
+
+* Browse books
+* View product details
+* Shopping cart
+* Checkout process
+* Responsive design
 
 **Tech Stack:** React · TypeScript · Tailwind CSS · React Router
 
@@ -76,7 +106,7 @@ You can explore more of my projects and frontend work on my portfolio:
 
 ## 📫 Connect With Me
 
-- GitHub: [@sam59246677](https://github.com/sam59246677)
+* GitHub: [@sam59246677](https://github.com/sam59246677)
 
 ---
 
